@@ -1,7 +1,7 @@
 /*
 Title       : Sync Google Calendar
-Description : 拠点間の G Suite のカレンダーを同期する
-Author      : Motoak Iwamoto @ Allied Architects.
+Description : Synchronize two Google Calendars
+Author      : Motoak Iwamoto @ Allied Architects
 */
 
 // 同期先のGoogleCalendarID
